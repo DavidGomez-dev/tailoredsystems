@@ -50,6 +50,8 @@ Languages: English and Spanish
    range
 7. Source control with Github
 
+---
+
 # Curso de ThingsBoard
 
 Obtén una formación y educación personalizada en ThingsBoard adaptada a tus necesidades específicas. Nuestro curso integral está diseñado para proporcionarte un conocimiento profundo y experiencia práctica con la plataforma IoT de ThingsBoard. Ya seas un principiante que busca entender los conceptos básicos o un usuario avanzado que desea dominar integraciones y personalizaciones complejas, nuestros módulos de formación cubren todo. Mejora tus habilidades, aumenta tu eficiencia y aprovecha al máximo las potentes características de ThingsBoard con nuestras sesiones de formación dirigidas por expertos. Únete a nosotros y conviértete en un experto en gestionar y optimizar tus soluciones IoT con ThingsBoard.
