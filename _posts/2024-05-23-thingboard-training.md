@@ -8,10 +8,10 @@ tags:
   - IoT
 classes: wide
 date: 2024-04-23 10:46:57 +0100
-excerpt: On construction sites it is difficult to control the location and use of small machinery. Much of this is shared by several work teams, which makes it even more difficult to manage their usage of without falling into an excess of machinery on site.
+excerpt: "Join our comprehensive ThingsBoard training course to gain in-depth knowledge and hands-on experience with the IoT platform. Whether you're a beginner or an advanced user, our expert-led sessions will enhance your skills and efficiency in managing and optimizing IoT solutions."
 header:
-  overlay_image: /assets/images/Use-Case-Construction-Assets-Control_Tailored.webp
-  teaser: /assets/images/Use-Case-Construction-Assets-Control_Tailored.webp
+  overlay_image: /assets/images/tb.jpg
+  teaser: /assets/images/tb.jpg
 ---
 
 # ThingsBoard Course
