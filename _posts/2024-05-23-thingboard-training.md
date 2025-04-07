@@ -6,7 +6,7 @@ tags:
   - ThingsBoard
   - Training
   - IoT
-classes: wide
+classes: wide wide-post
 date: 2024-04-23 10:46:57 +0100
 excerpt: "Join our comprehensive ThingsBoard training course to gain in-depth knowledge and hands-on experience with the IoT platform. Whether you're a beginner or an advanced user, our expert-led sessions will enhance your skills and efficiency in managing and optimizing IoT solutions."
 header:
