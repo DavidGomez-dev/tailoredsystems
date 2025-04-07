@@ -23,32 +23,55 @@ Languages: English and Spanish
 
 ## BASIC ⏱Duration: 3h + 1h aprox.
 
-1. Introduction to ThingsBoard IoT Platform
-2. Devices, Assets, Tenants, Users, Customers, Entities
-3. Understanding the Data Flow
-4. Connecting the first Device
-5. Creating the first Dashboard
-6. Creating the first Alarm
-7. Data Converters in detail. Example of LoRa devices. Debugging errors.
-8. Advanced integrations: HTTP, MQTT
-9. Rule Chains in detail
-10. Connecting to an external API and retrieving data
-11. Advanced Dashboards creation and customization. Use of formulas, modify UI, colors,
-    buttons, forms, visualizing alarms, navigation
-12. Connecting data collected manually with ThingsBoard: HTML forms
-13. Reporting and Scheduling
+1. **Introduction to ThingsBoard**: Gain an overview of the ThingsBoard IoT platform, its features, and its capabilities for managing IoT solutions effectively.
+
+2. **Getting started with ThingsBoard**: Learn how to set up and configure ThingsBoard for the first time, including initial setup.
+
+3. **Understanding Entities**: Explore the core concepts of ThingsBoard entities such as devices, assets, tenants, users, and customers, and how they interact.
+
+4. **Understanding the Data Flow**: Dive into the data flow within ThingsBoard, including telemetry data collection, processing, and visualization.
+
+5. **LoRaWAN Protocol**: Understand the LoRaWAN protocol and its integration with ThingsBoard for IoT applications.
+
+6. **Connecting the first device**: Step-by-step guidance on connecting your first IoT device to ThingsBoard via HTTP and verifying its data.
+
+7. **Creating the first Dashboard**: Learn how to design and build your first ThingsBoard dashboard to visualize device data effectively.
+
+8. **Creating Alarms**: Set up and configure alarms in ThingsBoard to monitor and respond to specific conditions or events.
+
+9. **Integrate a device via MQTT**: Discover how to connect and manage devices using the MQTT protocol within ThingsBoard.
+
+10. **Rule Chains in detail**: Explore the advanced capabilities of ThingsBoard rule chains for processing and automating IoT workflows.
+
+11. **Advanced Dashboards**: Master advanced dashboard customization techniques, including UI modifications, formulas, and navigation.
+
+12. **Integrate data from a HTML form**: Learn how to collect and integrate data from HTML forms into ThingsBoard for manual data entry scenarios.
+
+13. **Reporting and Scheduling**: Create detailed reports and schedule tasks to automate data analysis and notifications.
+
+14. **Summary and Conclusions**: Recap the key concepts and skills learned during the training, and discuss next steps for applying your knowledge.
 
 ## ADVANCED ⏱Duration: 3h + 1h aprox.
 
-1. White Labelling: Platform, Emailing. Advanced CSS modifications
-2. Use of middlewares for enhancing ThingsBoard capabilities
-3. Connecting to an FTP server and retrieving information stored as CSV. Example of
-   uploading historical data
-4. Storing telemetry from ThingsBoard in a CSV file and upload it to an FTP server
-5. Create a new type of graph: designing a Widget
-6. Use of the ThingsBoard API. Extract device list and telemetry, delete telemetry time
-   range
-7. Source control with Github
+1. **White Labelling: Platform, Emails, Advanced CSS Modifications**: Learn how to customize the ThingsBoard platform to reflect your brand identity. This includes modifying the platform's appearance, customizing email templates, and applying advanced CSS techniques to achieve a fully branded experience.
+
+2. **Role-Based Access Control and Permissions: Creating a Hierarchy of Users**: Understand how to implement role-based access control (RBAC) in ThingsBoard. Learn to create and manage user roles, define permissions, and establish a hierarchical structure to ensure secure and efficient access to IoT resources.
+
+3. **Use of Middlewares for Enhancing ThingsBoard Capabilities**: Explore how to integrate middleware solutions to extend the functionality of ThingsBoard. Example of reading data form a CSV file in FTP server.
+
+4. **Widget Development: Creating and Customizing Widgets**: Master the process of developing custom widgets in ThingsBoard. Learn how to design, build, and customize widgets to create tailored visualizations and interactive dashboards that meet specific IoT application requirements.
+
+5. **ThingsBoard API: Extracting Device Lists, Telemetry, and Managing Data**: Dive into the ThingsBoard API to automate and streamline IoT operations. Learn how to extract device lists, retrieve telemetry data, and manage data efficiently using API calls for advanced integration scenarios.
+
+6. **Source Control with GitHub: Versioning and Collaboration**: Set up GitHub for source control and collaboration.
+
+7. **Summary and Conclusions**: Recap the advanced concepts and skills covered in the training.
+
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+
+<stripe-pricing-table pricing-table-id="prctbl_1RB9sfJ5vdduVzYeu09DRHuT"
+publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x">
+</stripe-pricing-table>
 
 ---
 
@@ -75,6 +98,16 @@ Idiomas: Inglés y Español
     botones, formularios, visualización de alarmas, navegación
 12. Conectando datos recopilados manualmente con ThingsBoard: formularios HTML
 13. Informes y Programación
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+buy-button-id="buy_btn_1RB9CPJ5vdduVzYeeLHCGU9Q"
+publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
+
+> </stripe-buy-button>
 
 ## AVANZADO ⏱Duración: 3h + 1h aprox.
 
