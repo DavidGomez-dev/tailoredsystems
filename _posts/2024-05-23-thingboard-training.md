@@ -109,6 +109,18 @@ publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7Oo
 
 > </stripe-buy-button>
 
+<stripe-buy-button
+buy-button-id="buy_btn_1RBHPaJ5vdduVzYecH3uJ90g"
+publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
+
+> </stripe-buy-button>
+
+<stripe-buy-button
+buy-button-id="buy_btn_1RBHQNJ5vdduVzYeuUYP5Wc8"
+publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
+
+> </stripe-buy-button>
+
 ## AVANZADO ⏱Duración: 3h + 1h aprox.
 
 1. Marca Blanca: Plataforma, Correos Electrónicos. Modificaciones avanzadas de CSS

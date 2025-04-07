@@ -96,28 +96,30 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Tailored Systems"
+  name: #"Tailored Systems"
   avatar: # "/assets/images/portrait_black.png"
-  bio: "Digital transformation"
+  bio: #"Digital transformation"
   links:
-    # - label: "Web App"
-    #   icon: "fas fa-fw fa-mobile-alt"
-    #   url: "https://app.DOMAIN.com/"
-    # - label: "Google Play"
-    #   icon: "fab fa-fw fa-google-play"
-    #   url: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
-    # - label: "Apple Store"
-    #   icon: "fab fa-fw fa-apple"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+  # - label: "Web App"
+  #   icon: "fas fa-fw fa-mobile-alt"
+  #   url: "https://app.DOMAIN.com/"
+  # - label: "Google Play"
+  #   icon: "fab fa-fw fa-google-play"
+  #   url: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
+  # - label: "Apple Store"
+  #   icon: "fab fa-fw fa-apple"
+  #   url: "https://"
+  # - label: "Twitter"
+  #   icon: "fab fa-fw fa-twitter-square"
+  #   url: "https://twitter.com/"
+  # - label: "GitHub"
+  #   icon: "fab fa-fw fa-github"
+  #   url: "https://github.com/"
+  # - label: "Instagram"
+  #   icon: "fab fa-fw fa-instagram"
+  #   url: "https://instagram.com/"
+
+show_author: false
 
 footer:
   links:
