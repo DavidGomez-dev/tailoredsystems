@@ -10,18 +10,28 @@ classes: wide wide-post
 date: 2024-04-23 10:46:57 +0100
 excerpt: "Join our comprehensive ThingsBoard training course to gain in-depth knowledge and hands-on experience with the IoT platform. Whether you're a beginner or an advanced user, our expert-led sessions will enhance your skills and efficiency in managing and optimizing IoT solutions."
 header:
-  overlay_image: /assets/images/tb.jpg
-  teaser: /assets/images/tb.jpg
+  overlay_image: /assets/images/trainingThingsBoardHero.png
+  teaser: /assets/images/trainingThingsBoardHero.png
 ---
 
 # ThingsBoard Course
 
-Get a personalized training and education on ThingsBoard tailored to your specific needs. Our comprehensive course is designed to provide you with in-depth knowledge and hands-on experience with the ThingsBoard IoT platform. Whether you are a beginner looking to understand the basics or an advanced user aiming to master complex integrations and customizations, our training modules cover it all. Enhance your skills, improve your efficiency, and take full advantage of ThingsBoard's powerful features with our expert-led training sessions. Join us and become proficient in managing and optimizing your IoT solutions with ThingsBoard.
+<div class="container">
+   <div class="row">
+      <div class="col-md-6">
+         <p>
+            Get exclusive access to our ThingsBoard training course in a convenient video format, designed to fit your schedule and learning pace. This comprehensive video series provides in-depth knowledge and practical demonstrations of the ThingsBoard IoT platform. Whether you're a beginner exploring the basics or an advanced user seeking to master complex integrations and customizations, our expertly crafted video modules cover everything you need. Enhance your skills, boost your efficiency, and unlock the full potential of ThingsBoard's powerful features. Start your journey to becoming an IoT expert today with our on-demand video training.
+         </p>
+         <p><strong>Format:</strong> Pre-recorded video sessions with practical demonstrations.</p>
+         <p><strong>Languages:</strong> English and Spanish</p>
+      </div>
+      <div class="col-md-6 text-center pb-5">
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1daf7a28de4c457baa8da93205bb6a87?sid=b7e5097b-3508-4084-bd60-41d71e154547" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+      </div>
+   </div>
+</div>
 
-Format: Online meeting with practical ThingsBoard screen recorded.
-Languages: English and Spanish
-
-## BASIC ⏱Duration: 3h + 1h aprox.
+## BASIC ⏱Duration: 120 minutes. English and Spanish.
 
 1. **Introduction to ThingsBoard**: Gain an overview of the ThingsBoard IoT platform, its features, and its capabilities for managing IoT solutions effectively.
 
@@ -51,7 +61,7 @@ Languages: English and Spanish
 
 14. **Summary and Conclusions**: Recap the key concepts and skills learned during the training, and discuss next steps for applying your knowledge.
 
-## ADVANCED ⏱Duration: 3h + 1h aprox.
+## ADVANCED ⏱Duration: 70 minutes. English and Spanish.
 
 1. **White Labelling: Platform, Emails, Advanced CSS Modifications**: Learn how to customize the ThingsBoard platform to reflect your brand identity. This includes modifying the platform's appearance, customizing email templates, and applying advanced CSS techniques to achieve a fully branded experience.
 
@@ -69,65 +79,34 @@ Languages: English and Spanish
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 
+<div style="background-color:#f5f5f5; padding:20px">
 <stripe-pricing-table pricing-table-id="prctbl_1RB9sfJ5vdduVzYeu09DRHuT"
 publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x">
 </stripe-pricing-table>
+</div>
 
----
-
-# Curso de ThingsBoard
-
-Obtén una formación y educación personalizada en ThingsBoard adaptada a tus necesidades específicas. Nuestro curso integral está diseñado para proporcionarte un conocimiento profundo y experiencia práctica con la plataforma IoT de ThingsBoard. Ya seas un principiante que busca entender los conceptos básicos o un usuario avanzado que desea dominar integraciones y personalizaciones complejas, nuestros módulos de formación cubren todo. Mejora tus habilidades, aumenta tu eficiencia y aprovecha al máximo las potentes características de ThingsBoard con nuestras sesiones de formación dirigidas por expertos. Únete a nosotros y conviértete en un experto en gestionar y optimizar tus soluciones IoT con ThingsBoard.
-
-Formato: Reunión en línea con grabación práctica de ThingsBoard.
-Idiomas: Inglés y Español
-
-## BÁSICO ⏱Duración: 3h + 1h aprox.
-
-1. Introducción a la Plataforma IoT de ThingsBoard
-2. Devices, Assets, Tenants, Users, Customers, Entities
-3. Entendiendo el Flujo de Datos
-4. Conectando el primer Dispositivo
-5. Creando el primer Dashboard
-6. Creando la primera Alarma
-7. Data Converters en detalle. Ejemplo de dispositivos LoRa. Depuración de errores.
-8. Integraciones avanzadas: HTTP, MQTT
-9. Rule Chains en detalle
-10. Conectando a una API externa y recuperando datos
-11. Creación y personalización avanzada de Tableros. Uso de fórmulas, modificación de UI, colores,
-    botones, formularios, visualización de alarmas, navegación
-12. Conectando datos recopilados manualmente con ThingsBoard: formularios HTML
-13. Informes y Programación
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-buy-button-id="buy_btn_1RB9CPJ5vdduVzYeeLHCGU9Q"
-publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
-
-> </stripe-buy-button>
-
-<stripe-buy-button
-buy-button-id="buy_btn_1RBHPaJ5vdduVzYecH3uJ90g"
-publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
-
-> </stripe-buy-button>
-
-<stripe-buy-button
-buy-button-id="buy_btn_1RBHQNJ5vdduVzYeuUYP5Wc8"
-publishable-key="pk_live_51IXjuUJ5vdduVzYeUL9JkZLSH52a3FSxTF1ORmT2s22o1N4l28z7OordXPsjINn6Eb9BC14VXZjHKNPOSKXN8cGX004TxfAz0x"
-
-> </stripe-buy-button>
-
-## AVANZADO ⏱Duración: 3h + 1h aprox.
-
-1. Marca Blanca: Plataforma, Correos Electrónicos. Modificaciones avanzadas de CSS
-2. Uso de middlewares para mejorar las capacidades de ThingsBoard
-3. Conectando a un servidor FTP y recuperando información almacenada como CSV. Ejemplo de
-   carga de datos históricos
-4. Almacenando telemetría de ThingsBoard en un archivo CSV y subiéndolo a un servidor FTP
-5. Crear un nuevo tipo de gráfico: diseñando un Widget
-6. Uso de la API de ThingsBoard. Extraer lista de dispositivos y telemetría, eliminar rango de tiempo de telemetría
-7. Control de versiones con Github
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; background-color: #f5f5f5; max-width: 900px; margin: 30px auto;">
+   <h2 style="text-align: center; color: #333;">Corporate Custom ThingsBoard Training</h2>
+   <div class="d-flex flex-wrap justify-content-center align-items-center">
+      <div style="padding: 10px;">
+         <p style="font-size: 16px; color: #333; line-height: 1.6;">
+            Empower your team with our Corporate Custom ThingsBoard Training! Designed specifically for organizations, our tailored sessions—available online or onsite—address your unique business needs and IoT challenges. Let our experts provide your team with the skills and knowledge to optimize ThingsBoard for your corporate goals. Contact us today to create a customized training plan!
+         </p>
+         <p>
+            What includes:
+         </p>
+         <ul>
+            <li>Initial meeting consultation with the trainer to align on objectives and expectations.</li>
+            <li>Personalized training program tailored to your organization's specific needs.</li>
+            <li>Custom-designed course outlines to address your unique challenges.</li>
+            <li>Interactive, hands-on exercises using real-world data and scenarios relevant to your team.</li>
+            <li>Flexible scheduling to accommodate your preferred dates and times.</li>
+            <li>Training delivered online, onsite, or through a hybrid approach by industry experts with practical experience.</li>
+         </ul>   
+         <div style="text-align: center;">
+            <a href="mailto:davidgomezjim@gmail.com?subject=Corporate%20Custom%20ThingsBoard%20Training%20Inquiry" class="my-4 btn btn-primary" style="color:#fff;padding: 12px 24px; font-size: 16px; border-radius: 5px;">
+               Request Corporate Training
+            </a>
+         </div>    </div>
+   </div>
+</div>
